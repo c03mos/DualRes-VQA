@@ -12,7 +12,7 @@ matplotlib
 torchvision
 torchvideo
 ```
-### Useage
+### Usages
 You can download the trained model(LSVQ) via-[google drive](https://drive.google.com/file/d/1Mf8BfqXoXoTQMxVzb183OXiAmY0SuBJx/view?usp=sharing).
 and Saliency trained model-[google drive](https://drive.google.com/file/d/1EVnn1oVdzIusgzUIQ2iRsuY_D4eR2ROn/view?usp=sharing).
 ### Acknowledgement
