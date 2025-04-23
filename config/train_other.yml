@@ -1,0 +1,26 @@
+database : KoNViD-1k
+model_name : DualRes-VQA
+lr : 1e-5
+seed :  20021203
+decay_ratio : 0.90
+decay_interval : 2
+batch_size : 16
+num_workers : 8
+resize: 256
+crop_size : 224
+epochs : 30
+round : 10
+multi_gpu : store_true
+gpu_ids : [0,1]
+loss_type : plcc_rank
+use_ddp : True
+ops_candidates : ['concat', 'add', 'attn','mul','modulate']
+trained_model_path : your_path
+save_model_path : your_path
+log_path: your_path
+datainfo: your_path
+videos_path: your_path
+saliency_path:  your_path
+slowfast_path : your_path
+
+
