@@ -1,4 +1,4 @@
-# DualRes-VQA
+# IBCL-VQA
 ![image](https://github.com/c03mos/DualRes-VQA/blob/main/fig.png)
 
 ### Install Requirements
