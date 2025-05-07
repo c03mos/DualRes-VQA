@@ -1,5 +1,5 @@
 # IBCL-VQA
-![image](https://github.com/c03mos/DualRes-VQA/blob/main/fig.png)
+![image](https://github.com/c03mos/DualRes-VQA/blob/main/1.png)
 
 ### Install Requirements
 ```
